@@ -34,7 +34,7 @@ Certainly! Here’s the updated content formatted for a GitHub README file:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/alokgarg003/LoginPage.git
    ```
 
 2. **Navigate to the Project Directory:**
