@@ -77,6 +77,23 @@ curl -X POST https://jsonplaceholder.typicode.com/posts \
 You can view a live demo of the project hosted on GitHub Pages (if applicable). 
 
 [Live Demo](https://alokgarg003.github.io/LoginPage/)
+## Screenshots
+
+- ![Screenshot (145)](https://github.com/user-attachments/assets/0ec08eff-c9f9-4112-b4df-8c7ceb36f096)
+- ![Screenshot (157)](https://github.com/user-attachments/assets/1f40210d-b7de-46c0-b6f3-e54ebabd81c7)
+- ![Screenshot (156)](https://github.com/user-attachments/assets/d8bb6d7d-eb88-4dbc-be4c-14a59d141003)
+- ![Screenshot (155)](https://github.com/user-attachments/assets/01368af2-09e1-4d3b-9b45-d2ffdcdb123b)
+- ![Screenshot (154)](https://github.com/user-attachments/assets/802a3b40-fbb5-4b06-b97d-b6c161c8e22e)
+- ![Screenshot (153)](https://github.com/user-attachments/assets/c31caa3f-a270-4dde-ae74-8d980fb11e65)
+- ![Screenshot (152)](https://github.com/user-attachments/assets/e2c240e2-a94b-49d4-a4a2-2159e6dace3c)
+- ![Screenshot (151)](https://github.com/user-attachments/assets/abbf3eb2-97e5-492c-ab49-cbb405a992bc)
+- ![Screenshot (150)](https://github.com/user-attachments/assets/48442cc1-9eeb-4179-b210-b0952924e4a8)
+- ![Screenshot (149)](https://github.com/user-attachments/assets/ea87658d-321f-4b0c-a74c-e84b40ff52a9)
+- ![Screenshot (148)](https://github.com/user-attachments/assets/c01bd95d-9919-4fd2-a4c3-a285c231b2f9)
+- ![Screenshot (147)](https://github.com/user-attachments/assets/63be020e-09a1-4145-9062-187b79755b3e)
+- ![Screenshot (146)](https://github.com/user-attachments/assets/8282c949-3e6d-4643-9efc-4cc4c6452963)
+- ![Screenshot (144)](https://github.com/user-attachments/assets/f1196724-f6c9-4e33-a874-12a634d128a5)
+
 
 ## Contributing
 
@@ -98,3 +115,5 @@ For any inquiries or feedback, please contact me at:
 
    ```bash
    git clone https://github.com/alokgarg003/LoginPage.git
+
+
